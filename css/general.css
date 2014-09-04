@@ -30,8 +30,12 @@ h1 {
 	padding-left: .5rem;
 }
 
-dt, dd {
+dt {
 	float:left;
-	display:block;
+}
 
+dd {
+	float: left;
+	margin: 0;
+	padding: 0;
 }
