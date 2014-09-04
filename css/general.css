@@ -31,7 +31,7 @@ h1 {
 }
 
 dl {
-	display: block;
+	overflow: hidden;
 }
 
 dt {
