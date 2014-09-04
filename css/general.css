@@ -37,6 +37,8 @@ dl {
 dt {
 	float:left;
 	clear: left;
+	width: 8rem;
+	text-align: right;
 }
 
 dd {
