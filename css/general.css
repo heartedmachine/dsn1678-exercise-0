@@ -29,3 +29,7 @@ h1 {
 	color: #DC143C;
 	padding-left: .5rem;
 }
+
+dt, dd {
+	float:left;
+}
