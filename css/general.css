@@ -10,4 +10,5 @@ html, body {
 
 .img-flex {
 width: 80%;
+max-width: 60%;
 }
