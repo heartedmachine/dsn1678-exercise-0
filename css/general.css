@@ -32,4 +32,5 @@ h1 {
 
 dt, dd {
 	float:left;
+	clear: both;
 }
