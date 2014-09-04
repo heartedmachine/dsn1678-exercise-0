@@ -1,11 +1,18 @@
 @charset "UTF-8";
 /* CSS Document */
 
-html, body {
+html {
 	font-family: sans-serif;
 	width: 100%;
 	margin: 0;
 	padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+	width: 100%;
+	margin: 0;
+	padding: .5rem;
 }
 
 .main {
@@ -20,4 +27,5 @@ max-width: 80%;
 
 h1 {
 	color: #DC143C;
+	padding-left: .5rem;
 }
