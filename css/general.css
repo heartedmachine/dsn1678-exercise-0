@@ -25,6 +25,10 @@ body {
 max-width: 80%;
 }
 
+figcaption {
+	width: 100%;
+}
+
 h1 {
 	color: #DC143C;
 	padding-left: .5rem;
