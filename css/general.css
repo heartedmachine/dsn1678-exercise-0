@@ -11,6 +11,7 @@ html, body {
 .main {
 	margin: 1rem;
 	border: 1px solid #ccc;
+	border-radius: 10px;
 }
 
 .img-flex {
@@ -18,5 +19,5 @@ max-width: 80%;
 }
 
 h1 {
-	color: crimson;
+	color: #DC143C;
 }
