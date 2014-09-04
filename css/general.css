@@ -16,3 +16,7 @@ html, body {
 .img-flex {
 max-width: 80%;
 }
+
+h1 {
+	color: crimson;
+}
