@@ -30,7 +30,11 @@ h1 {
 	padding-left: .5rem;
 }
 
+dl {
+	display: block;
+}
+
 dt, dd {
 	float:left;
-	clear: both;
+
 }
