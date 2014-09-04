@@ -30,6 +30,10 @@ h1 {
 	padding-left: .5rem;
 }
 
+dl {
+	display: block;
+}
+
 dt {
 	float:left;
 	clear: left;
